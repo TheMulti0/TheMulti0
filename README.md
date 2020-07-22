@@ -5,8 +5,6 @@
 
 ## My Projects :pencil:
 
-<hr>
-
 **[Iris](https://github.com/TheMulti0/Iris)**
 <br>
 A scalable social media update manager
