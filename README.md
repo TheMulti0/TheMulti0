@@ -74,30 +74,10 @@ A simple Python script to download Harry Potter Audiobooks from https://hpaudiob
 <br>
 An unofficial asynchronous .NET DuckDuckGo Instant Answer Web API wrapper
 
-<hr>
-
 [![Nuget Package](https://img.shields.io/nuget/v/TheMulti0.EasyTranslate.svg)](https://www.nuget.org/packages/TheMulti0.EasyTranslate)
 <br>
-**[EasyTranslate](https://github.com/TheMulti0/EasyTranslate)**
+**[QuickTranslate](https://github.com/TheMulti0/QuickTranslate)**
 <br>
-**[EasyTranslate.UI](https://github.com/TheMulti0/EasyTranslate.UI)**
+**[QuickTranslate.UI](https://github.com/TheMulti0/QuickTranslate.UI)**
 <br>
 Easily translate and detect with no hassle!
-
-This API is violates the Google Translate terms of service, hence why it is discontinued, but it is still avaliable to use for anyone on NuGet, install on your own risk.
-
-
-<!--
-**TheMulti0/TheMulti0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
